@@ -100,4 +100,4 @@ git clone https://github.com/tu-usuario/ZonaFitAppJava.git
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Samahel Thomas Monterroso**
+Desarrollado por **Samahel Thomas**
